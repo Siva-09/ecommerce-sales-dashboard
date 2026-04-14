@@ -21,7 +21,7 @@ This project analyzes e-commerce sales data using Power BI to generate meaningfu
 - Profit varies across categories
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](
+![Dashboard Screenshot](Screenshot.png)
 
 ## 📂 Files Included
 - Power BI file (.pbix)
