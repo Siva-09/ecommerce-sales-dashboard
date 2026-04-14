@@ -20,5 +20,3 @@ This project analyzes e-commerce sales data using Power BI to extract meaningful
 - Sales show seasonal trends
 - Few regions dominate overall sales
 
-## 📸 Dashboard Preview
-(Add your screenshot here)
