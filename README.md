@@ -1,22 +1,29 @@
-# ecommerce-sales-dashboard
-Power BI dashboard analyzing e-commerce sales and customer trends
-# E-commerce Sales Dashboard
+# 🛍️ E-commerce Sales Dashboard
 
-## 📊 Project Overview
-This project analyzes e-commerce sales data using Power BI to extract meaningful business insights.
+## 📊 Overview
+This project analyzes e-commerce sales data using Power BI to generate meaningful business insights. The dashboard provides a clear view of sales performance, customer behavior, and product trends.
 
 ## 🚀 Features
-- Total revenue and profit analysis
+- Total Revenue & Profit analysis
 - Sales trends over time
-- Category and regional performance
-- Profit distribution insights
+- Category-wise performance
+- State-wise sales analysis
+- Interactive filters (slicers)
 
 ## 🛠 Tools Used
 - Power BI
-- Excel / CSV datasets
+- Excel / CSV Dataset
 
 ## 📈 Key Insights
 - Top categories contribute majority of revenue
-- Sales show seasonal trends
+- Sales show seasonal fluctuations
 - Few regions dominate overall sales
+- Profit varies across categories
 
+## 📸 Dashboard Preview
+![Dashboard Screenshot](
+
+## 📂 Files Included
+- Power BI file (.pbix)
+- Dataset files (Orders, Details)
+- Dashboard screenshot
